@@ -4,6 +4,8 @@ public class Main {
         var num = 1;
         var num = 1;
         var str = "ggg";
+        var str = "ggg";
+        var str = "ggg";
     }
 
     private static void test() {
