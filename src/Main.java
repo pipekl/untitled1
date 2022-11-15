@@ -2,10 +2,8 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
         var num = 1;
-        var num = 1;
         var str = "ggg";
-        var str = "ggg";
-        var str = "ggg";
+
     }
 
     private static void test() {
