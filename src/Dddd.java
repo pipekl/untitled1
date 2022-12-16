@@ -8,6 +8,8 @@ public class Dddd {
     private void test() {
         System.out.println(111);
         System.out.println(111);
+        System.out.println(111);
+        System.out.println(111);
 
     }
 }
