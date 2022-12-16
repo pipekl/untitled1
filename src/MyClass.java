@@ -4,8 +4,6 @@ public class MyClass {
         System.out.println("it's my class");
         System.out.println("it's my class");
         System.out.println("it's my class");
-        System.out.println("it's my class");
-        System.out.println("it's my class");
-        System.out.println("it's my class");
+
     }
 }
