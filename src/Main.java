@@ -1,7 +1,14 @@
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.stream.IntStream;
+import java.util.stream.LongStream;
+
 public class Main {
+
     public static void main(String[] args) {
-        System.out.println("Hello world!");
-        var num = 1;
+
+        int [] arr = IntStream.range(0, 100).filter(it -> it % 2 == 0).toArray();
+        System.out.println(Arrays.toString(arr));
 
     }
 
@@ -9,9 +16,7 @@ public class Main {
         System.out.println("hello");
         System.out.println("hello");
         System.out.println("hello");
-        System.out.println("hello");
-        System.out.println("hello");
-        System.out.println("hello");
+
 
     }
 }
