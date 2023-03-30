@@ -9,10 +9,7 @@ public class Main {
     }
 
     private static void test() {
-        int s = 2;
-        int s = 2;
-        int s = 2;
-        int s = 2;
+        int s = 3;
 
     }
 }
