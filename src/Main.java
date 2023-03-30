@@ -7,8 +7,6 @@ public class Main {
         String sa = "8989";
         String sa = "8989";
         String sa = "8989";
-        String sa = "8989";
-        String sa = "8989";
 
     }
 
