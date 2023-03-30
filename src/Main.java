@@ -5,6 +5,8 @@ public class Main {
         var num2 = 1999;
         var num5 = 1999;
         String sa = "8989";
+        String sa = "8989";
+        String sa = "8989";
 
     }
 
