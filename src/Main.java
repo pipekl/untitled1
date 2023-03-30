@@ -6,6 +6,7 @@ public class Main {
         var num2 = 1999;
         var num2 = 1999;
         var num5 = 1999;
+        String sa = "sd";
 
     }
 
