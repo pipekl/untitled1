@@ -8,7 +8,8 @@ public class Main {
     }
 
     private static void test() {
-        int s = 2;
+        System.out.println("hello");
+        System.out.println("hello");
 
     }
 }
