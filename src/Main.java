@@ -3,7 +3,6 @@ public class Main {
         System.out.println("Hello rld!");
         var num = 1999;
         var num2 = 1999;
-        var num5 = 1999;
         String sa = "sd";
 
     }
